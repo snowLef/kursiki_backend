@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://5.45.81.188:5432/workspace
+    username: master
+    password: 5#gyMqjY
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
